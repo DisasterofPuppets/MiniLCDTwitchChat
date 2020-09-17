@@ -1,5 +1,7 @@
 # MiniLCDTwitchChat
-Twitch chat displayed on 20 x 4 LCD display
+Twitch chat displayed on 20 x 4 LCD display using an ESP8266
+
+Insert Dodgy picture here, this is before I design a case.
 
 ![GitHub Logo](demo.png)
 
