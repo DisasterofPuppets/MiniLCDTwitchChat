@@ -9,6 +9,7 @@ Insert Dodgy picture here, this is before I design a case.
 To be added
 
 * centre text
+* subs / follow events etc
 * push to continue / ready for next
 * longer than 80 chars
 * light to indicate paused / new message waiting
