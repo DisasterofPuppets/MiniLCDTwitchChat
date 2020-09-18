@@ -14,3 +14,4 @@ To be added
 * push to continue / ready for next
 * longer than 80 chars
 * light to indicate paused / new message waiting
+* /me actions don't show either
