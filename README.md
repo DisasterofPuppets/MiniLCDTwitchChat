@@ -1,5 +1,5 @@
 # MiniLCDTwitchChat
-Twitch chat displayed on 20 x 4 LCD display using an ESP8266
+Twitch chat displayed on a 2004 20x4 Blue HD44780 Character LCD IIC/I2C Serial Interface Module for Arduino using an ESP8266
 
 Insert Dodgy picture here, this is before I design a case.
 
